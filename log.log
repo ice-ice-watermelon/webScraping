@@ -1,14 +1,14 @@
-2026-06-07 16:48:04,453 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 1 页 -> https://movie.douban.com/top250?start=0
-2026-06-07 16:48:05,386 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 2 页 -> https://movie.douban.com/top250?start=25
-2026-06-07 16:48:06,325 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 3 页 -> https://movie.douban.com/top250?start=50
-2026-06-07 16:48:07,307 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 4 页 -> https://movie.douban.com/top250?start=75
-2026-06-07 16:48:08,219 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 5 页 -> https://movie.douban.com/top250?start=100
-2026-06-07 16:48:09,182 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 6 页 -> https://movie.douban.com/top250?start=125
-2026-06-07 16:48:10,105 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 7 页 -> https://movie.douban.com/top250?start=150
-2026-06-07 16:48:11,024 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 8 页 -> https://movie.douban.com/top250?start=175
-2026-06-07 16:48:11,988 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 9 页 -> https://movie.douban.com/top250?start=200
-2026-06-07 16:48:13,037 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 10 页 -> https://movie.douban.com/top250?start=225
-2026-06-07 16:48:14,104 - [data.py:68] - INFO - 数据已保存至：data_list/data_raw.csv
-2026-06-07 16:48:14,109 - [data.py:82] - INFO - 清洗完毕
-2026-06-07 16:48:14,111 - [main.py:15] - INFO - 开始连接MySQL
-2026-06-07 16:48:14,269 - [main.py:21] - INFO - 成功保存至MySQL
+2026-06-07 17:38:55,487 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 1 页 -> https://movie.douban.com/top250?start=0
+2026-06-07 17:38:56,449 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 2 页 -> https://movie.douban.com/top250?start=25
+2026-06-07 17:38:57,419 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 3 页 -> https://movie.douban.com/top250?start=50
+2026-06-07 17:38:58,402 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 4 页 -> https://movie.douban.com/top250?start=75
+2026-06-07 17:38:59,306 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 5 页 -> https://movie.douban.com/top250?start=100
+2026-06-07 17:39:00,315 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 6 页 -> https://movie.douban.com/top250?start=125
+2026-06-07 17:39:01,242 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 7 页 -> https://movie.douban.com/top250?start=150
+2026-06-07 17:39:02,144 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 8 页 -> https://movie.douban.com/top250?start=175
+2026-06-07 17:39:03,201 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 9 页 -> https://movie.douban.com/top250?start=200
+2026-06-07 17:39:04,367 - [data.py:22] - INFO - 开始网络请求: 正在爬取第 10 页 -> https://movie.douban.com/top250?start=225
+2026-06-07 17:39:05,355 - [data.py:68] - INFO - 数据已保存至：data_list/data_raw.csv
+2026-06-07 17:39:05,377 - [data.py:82] - INFO - 清洗完毕
+2026-06-07 17:39:05,379 - [main.py:15] - INFO - 开始连接MySQL
+2026-06-07 17:39:05,839 - [main.py:21] - INFO - 成功保存至MySQL
